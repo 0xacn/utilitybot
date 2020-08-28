@@ -1,0 +1,9 @@
+# IDE
+.idea/
+
+.private/
+
+# github stuff
+.git/
+.github/
+
