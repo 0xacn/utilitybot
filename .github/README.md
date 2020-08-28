@@ -4,7 +4,7 @@
 ## What is it?
 Utility Bot is a bot that can generate memes and images, create polls, help manage your server with many moderation commands, and much more!
 
-## Our bot uses:
+## Our bot uses
 
 - [discord.py](https://github.com/Rapptz/discord.py)
 - [asyncpg](https://github.com/MagicStack/asyncpg)
