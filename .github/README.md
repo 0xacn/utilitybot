@@ -2,8 +2,7 @@
 
 
 ## What is it?
-Utility Bot is a bot that can generate memes and images, create polls, help manage your server with many moderation commands, and much more!
-
+Our bot can help you manage you server with many commands! to kick ban create polls and much more! if you want more info about commands check out here utilitybot.co/commands
 ## Our bot uses
 
 - [discord.py](https://github.com/Rapptz/discord.py)
