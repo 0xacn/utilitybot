@@ -5,3 +5,6 @@
 
 # Private stuff (tokens, postgres)
 config.py
+
+# Random IDE stuff
+*..DS_Store
