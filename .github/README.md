@@ -1,4 +1,4 @@
-# Utility Bot: The ultimate server management bot with many utilities to help manage your server 
+# Utility Bot: A server management bot to manage your server
 
 
 ## What is it?
