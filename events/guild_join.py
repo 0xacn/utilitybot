@@ -44,13 +44,6 @@ class GuildJoin(commands.Cog):
             color=discord.Color.orange())
 
         await self.channel.send("**Thank you for adding me!** :white_check_mark:\n - My prefix is u! but you can change it using u!prefix [prefix]\n - You can see a list of commands by typing u!help\n - If you need help, feel free to join our support server https://utilitybot.co/suppor")
-
-        
-       
-        
-        
-        
-    
         
 def setup(bot):
     bot.add_cog(GuildJoin(bot)) 
